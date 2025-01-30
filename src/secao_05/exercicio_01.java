@@ -6,7 +6,7 @@ public class exercicio_01 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		exe_05();
+		exe_02();
 	}
 
 	public static void exe_01() {
