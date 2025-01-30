@@ -1,3 +1,4 @@
+package secao_04;
 import java.util.Scanner;
 
 public class Fatorial {

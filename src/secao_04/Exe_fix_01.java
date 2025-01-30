@@ -1,6 +1,7 @@
+package secao_04;
 import java.util.Locale;
 
-public class exe_fix_01 {
+public class Exe_fix_01 {
 
 	public static void main(String[] args) {
 		String produto1 = "Computador";
